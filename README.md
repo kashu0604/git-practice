@@ -23,3 +23,7 @@ and it made me think about how similar LLM-extracted, interpretable
 features could apply to other domains, like flagging risky pull requests
 or explaining code review feedback in plain language instead of just a
 similarity score.
+
+## Sean Kim's Thoughts
+
+I thought that your article was interesting because it focuses on practicality and making large hard to understand numerical values more easier to process. I also like the idea of interpretable features for more than just predictions.
