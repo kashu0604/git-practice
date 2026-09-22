@@ -24,6 +24,12 @@ features could apply to other domains, like flagging risky pull requests
 or explaining code review feedback in plain language instead of just a
 similarity score.
 
+<<<<<<< HEAD
 ## Comment by Rania Aamer
 
 I think being able to understand why a model makes a decision is really important. Features like rigor and replicability seem easier to understand than a long list of numbers. I also wonder what happens if the LLM extracts a feature incorrectly. Would the final explanation still sound convincing even though it is based on a mistake? It would be interesting to see how the authors check the accuracy of these features.
+=======
+## Sean Kim's Thoughts
+
+I thought that your article was interesting because it focuses on practicality and making large hard to understand numerical values more easier to process. I also like the idea of interpretable features for more than just predictions.
+>>>>>>> pr-1
