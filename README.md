@@ -23,3 +23,7 @@ and it made me think about how similar LLM-extracted, interpretable
 features could apply to other domains, like flagging risky pull requests
 or explaining code review feedback in plain language instead of just a
 similarity score.
+
+## Comment by Rania Aamer
+
+I think being able to understand why a model makes a decision is really important. Features like rigor and replicability seem easier to understand than a long list of numbers. I also wonder what happens if the LLM extracts a feature incorrectly. Would the final explanation still sound convincing even though it is based on a mistake? It would be interesting to see how the authors check the accuracy of these features.
